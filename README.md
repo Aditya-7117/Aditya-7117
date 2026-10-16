@@ -1,7 +1,8 @@
 # Aditya Magar
 
 MSc Computing (Artificial Intelligence) student at Dublin City University. I write Python: trading
-infrastructure that has to survive crashes and broker errors, and retrieval systems I can measure.
+infrastructure that has to survive crashes and broker errors, and retrieval systems I can measure. 
+Location: "Dublin, Ireland".
 
 ## Projects
 
